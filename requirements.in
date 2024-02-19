@@ -1,0 +1,7 @@
+# Chicken and the egg: Note that you need to `
+# pip install pip-tools` to use `pip-compile requirements.in`
+# Use dotenv to Manage API Keys
+python-dotenv
+
+# Use Pinecone for Long Term Vector Storage
+pinecone-client==3.0.3
