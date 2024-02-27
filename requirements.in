@@ -5,7 +5,11 @@
 python-dotenv
 
 # Use Pinecone for Long Term Vector Storage
-pinecone-client==3.0.3
+pinecone-client
 
 # Use Cohere for embedding and RAG
 cohere
+
+#Use Langchain for abstraction and linking Pinecone and Cohere
+langchain
+langchain-pinecone
