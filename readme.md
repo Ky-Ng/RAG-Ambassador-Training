@@ -2,7 +2,7 @@
 
 ___
 ## Introduction
-As a USC Dornsife Student Ambassador, there are so many wonderful text-based training resources; however, there is one big problem:
+As a USC Dornsife Student Ambassador, there are many text-based training resources. However,
 
 1) Handbooks are not interactive
 2) And therefore cannot simulate ambassador interactions for critical training events like “Tough Questions” or Diversity Equity and Inclusion (DEI) training
